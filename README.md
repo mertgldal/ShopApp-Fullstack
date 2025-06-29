@@ -6,23 +6,23 @@ ShopApp is a complete e-commerce web application that provides a comprehensive s
 ## Screenshots
 
 ### Home Page
-![Home Page](../my-fullstack-app/assets/readme-screenshots/home.png)
+![Home Page](assets/readme-screenshots/home.png)
 *Beautiful landing page with modern design and navigation*
 
 ### Products Catalog
-![Products Page](../my-fullstack-app/assets/readme-screenshots/products.png)
+![Products Page](assets/readme-screenshots/products.png)
 *Browse products with detailed information, pricing, and add-to-cart functionality*
 
 ### Login/Register Page
-![Login Page](../my-fullstack-app/assets/readme-screenshots/login.png)
+![Login Page](assets/readme-screenshots/login.png)
 *Secure authentication system with user registration and login forms*
 
 ### Shopping Cart
-![Shopping Cart](../my-fullstack-app/assets/readme-screenshots/cart.png)
+![Shopping Cart](assets/readme-screenshots/cart.png)
 *Interactive cart with quantity controls, real-time totals, and checkout process*
 
 ### My Orders Page
-![My Orders](../my-fullstack-app/assets/readme-screenshots/orders.png)
+![My Orders](assets/readme-screenshots/orders.png)
 *Order history with delivery tracking and detailed order information*
 
 ## Project Structure
